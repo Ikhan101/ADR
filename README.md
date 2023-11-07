@@ -24,4 +24,4 @@ This ADR is successful and approved of every team member of the team, and we are
 17/10/2023
 
 ## Decision Makers
-Imraan, Asad, mohammed 
+Imraan, Asad, mohammed
