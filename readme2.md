@@ -18,7 +18,7 @@ As a group we have decided to use the relational database for the Attendance sys
 
 ## Implications
 
-The adoption of relational databse within the student attendance system provides 
+The adoption of relational databse within the student attendance system provides detailed database and detailed structure.
 
 ## Status
 
